@@ -25,4 +25,4 @@ A production-grade multi-agent system built as my Generative AI & ML graduate ca
 - **Status:** In active development
 
 ---
-📫 Open to connecting with others working in applied AI/ML and agentic systems.# Gedion-Gebeyehu
+📫 Open to connecting with others working in applied AI/ML and agentic systems.
